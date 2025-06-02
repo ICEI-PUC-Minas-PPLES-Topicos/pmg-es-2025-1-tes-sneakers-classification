@@ -17,8 +17,9 @@ Uma Rede Neural Convolucional (CNN, do inglês *Convolutional Neural Network*) q
 
 Antes de iniciar qualquer um dos passos abaixo, clone o repositório:
 
-	
-		git clone https://github.com/ICEI-PUC-Minas-PPLES-Topicos/pmg-es-2025-1-tes-sneakers-classification.git
+```	
+git clone https://github.com/ICEI-PUC-Minas-PPLES-Topicos/pmg-es-2025-1-tes-sneakers-classification.git
+```
 
 ### Treinamento do modelo no Google Colaboratory
 
